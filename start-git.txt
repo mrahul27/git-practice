@@ -1,0 +1,11 @@
+
+
+its a demo file to practice git push cmd in cli. to push the local files to github remote repo.
+
+create a new file startgit.txt
+git push origin main
+
+here origin is keyword which denotes the github copy of my repository in my github account
+main or master-- its the branch where we will push the files in remote repo
+give username and passwd
+ now, locally created new file will be avail on github repo
